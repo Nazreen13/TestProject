@@ -28,5 +28,8 @@ public class Test {
     	return x+y+2;
     	
     }
-    
+  
+    public double percentage(int x, int y){
+        return (x/y)*100;
+    }
 }
