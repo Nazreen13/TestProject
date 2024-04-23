@@ -21,11 +21,11 @@ public class Test {
         }
 
     }
-<<<<<<< HEAD
+
     public int mod(int a, int b)
     {
-    	return a%b;
-=======
+    	return a%b;}
+
     public int div(int x, int y) {
     	return x/y;
     }
@@ -36,6 +36,6 @@ public class Test {
   
     public double percentage(int x, int y){
         return (x/y)*100;
->>>>>>> ec58feb782ec46bf1c5d3a0024c5bb19ae954400
+
     }
 }
